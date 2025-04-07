@@ -109,8 +109,8 @@
     }
 
     .botoes {
-        padding: 50px;
-        bottom: 40px;
+        padding: 150px;
+        bottom: 150px;
     }
 
     .botoes .botao {
@@ -118,14 +118,14 @@
         /* Reduzido de 50px */
         height: 45px;
         /* Reduzido de 50px */
-        margin: 0 3%;
+        margin: 0 3px;
         /* Ajustado para aproximar ainda mais */
     }
 }
 
-@media (max-width: 100px) {
+@media (max-width: 250px) {
     main .personagem .imagem {
-        height: 100%;
+        height: 50%;
     }
 
     .conteudo {
@@ -142,14 +142,14 @@
     }
 
     .botoes {
-        padding: 200px;
-        bottom: 200px;
+        padding: 150px;
+        bottom: 150px;
     }
 
     .botoes .botao {
-        width: 35px;
+        width: 40px;
         /* Reduzido de 40px */
-        height: 35px;
+        height: 40px;
         /* Reduzido de 40px */
         margin: 0 1px;
         /* Ajustado para aproximar ao máximo */
