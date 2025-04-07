@@ -118,14 +118,14 @@
         /* Reduzido de 50px */
         height: 45px;
         /* Reduzido de 50px */
-        margin: 0 3px;
+        margin: 0 3%;
         /* Ajustado para aproximar ainda mais */
     }
 }
 
-@media (max-width: 258px) {
+@media (max-width: 250px) {
     main .personagem .imagem {
-        height: 70%;
+        height: 100%;
     }
 
     .conteudo {
