@@ -123,9 +123,9 @@
     }
 }
 
-@media (max-width: 330px) {
+@media (max-width: 250px) {
     main .personagem .imagem {
-        height: 70%;
+        height: 50%;
     }
 
     .conteudo {
